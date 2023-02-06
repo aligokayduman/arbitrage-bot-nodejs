@@ -1,0 +1,38 @@
+{
+    "btcturk": {
+      "apiKey": "",
+      "apiSecret": ""
+    },
+    "binancetr": {
+      "apiKey": "",
+      "apiSecret": ""
+    },
+    "binance": {
+      "apiKey": "",
+      "apiSecret": ""
+    },  
+    "okex": {
+      "apiKey": "",
+      "apiSecret": "",
+      "apiPassphare": ""
+    },   
+    "arbitrage": {
+      "status": "Stop",
+      "leftExchange": "Binance",
+      "leftApiKey":"",
+      "leftApiSecret": "",
+      "leftSymbol": "BTCUSDT",
+      "rightExchange": "Okx",
+      "rightApiKey":"",
+      "rightApiSecret":"",
+      "rightApiPassphrase":"",
+      "rightSymbol": "BTC-USDT",
+      "minDiff": "0.005",
+      "showPrices": "false",
+      "showDiff": "false"       
+    },
+    "telegram": {
+      "botToken": "",
+      "chatId": ""
+    }
+  }

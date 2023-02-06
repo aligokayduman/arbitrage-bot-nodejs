@@ -1,0 +1,1 @@
+.\putty.exe -ssh root@IP -m ".\auth.txt" -t

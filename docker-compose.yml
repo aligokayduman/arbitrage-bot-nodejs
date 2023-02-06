@@ -1,0 +1,42 @@
+version: '3.3'
+
+networks:
+  back:
+    driver: bridge
+
+services:
+  node:
+    image: "node:19"
+    container_name: node
+    restart: "no"
+    working_dir: /home/node/app
+    volumes:
+      - ./node:/home/node/app
+    environment:
+      NODE_ENV: production
+    networks:
+      - back
+    command: "npm start"
+
+  nginx:
+    image: nginx
+    container_name: nginx
+    restart: unless-stopped
+    volumes:
+      - ./nginx:/etc/nginx
+      - ./node:/usr/share/nginx/html
+      - ./htpasswd:/etc/htpasswd
+    networks:
+      - back
+    ports:
+      - "80:80"
+
+  php-fpm8:
+    container_name: php-fpm8
+    image: php:8-fpm
+    restart: unless-stopped
+    volumes:
+      - ./php:/usr/local/etc
+      - ./node:/usr/share/nginx/html
+    networks:
+      - back

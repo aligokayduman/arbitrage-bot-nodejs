@@ -1,0 +1,13 @@
+BinanceTR Bid: 19.24000000 -> BtcTurk Ask: 19.23 Diff: % 0.00052 Biggest Diff: %0.00052
+BinanceTR Bid: 19.24000000 -> BtcTurk Ask: 19.23 Diff: % 0.00052 Biggest Diff: %0.00052
+BinanceTR Bid: 19.24 -> BtcTurk Ask: 19.23 Diff: % 0.00052 Biggest Diff: %0.00052
+BinanceTR Bid: 19.24 -> BtcTurk Ask: 19.23 Diff: % 0.00052 Biggest Diff: %0.00052
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
+BinanceTR Bid: 19.23 -> BtcTurk Ask: 19.227 Diff: % 0.00016 Biggest Diff: %0.00016
